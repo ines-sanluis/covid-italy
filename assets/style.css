@@ -1,0 +1,27 @@
+#demo-dropdown .VirtualizedSelectFocusedOption {
+  width: 200px !important;
+}
+#demo-dropdown{
+  width: 200px !important;
+}
+.Select-control {
+  background-color: rgb(25, 25, 25) !important;
+  color: white !important;
+}
+
+.Select-menu-outer {
+  background-color: rgb(25, 25, 25);
+  color: white !important;
+}
+
+.Select-value-label{
+  color: white !important;
+}
+
+body{
+	background-color: rgb(61, 61, 61) !important;
+}
+
+.bg-dark{
+	background-color: rgb(61, 61, 61) !important;
+}
